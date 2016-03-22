@@ -6,5 +6,6 @@ run:
 
 ./run.sh "add(1,2)"
 
-in order to change log level, modify log4j.properties to allow DEBUG, INFO, ERROR;
+In order to change log level, modify log4j.properties to allow DEBUG, INFO, ERROR;
 
+codeship
