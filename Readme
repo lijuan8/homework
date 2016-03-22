@@ -8,4 +8,11 @@ run:
 
 In order to change log level, modify log4j.properties to allow DEBUG, INFO, ERROR;
 
-test codeship
+
+Don't know how to show you my codeship set up:
+
+https://codeship.com/projects/77893
+
+I add a screen shot of codeship in the project.
+
+

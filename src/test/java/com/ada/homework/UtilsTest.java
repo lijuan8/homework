@@ -1,7 +1,6 @@
 package com.ada.homework;
 
-import junit.framework.Assert;
-
+import org.junit.Assert;
 import org.junit.Test;
 
 public class UtilsTest {
